@@ -67,6 +67,7 @@ int main(int argc, char* argv[])
 		double* vector = new double[n];
 
 		for (int i = 0; i < n; i++)
+			//cin >> vector[i];
 			vector[i] = i+1;
 
 

@@ -1,5 +1,5 @@
 ﻿  Source.cpp
-c:\users\dns\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.cpp(74): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
-c:\users\dns\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.cpp(48): warning C4101: status: неиспользованная локальная переменная
-  ConsoleApplication2.vcxproj -> C:\Users\dns\documents\visual studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
-  ConsoleApplication2.vcxproj -> C:\Users\dns\documents\visual studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
+c:\users\dns\desktop\новая папка (2)\mpilab1\consoleapplication2\consoleapplication2\source.cpp(75): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\dns\desktop\новая папка (2)\mpilab1\consoleapplication2\consoleapplication2\source.cpp(48): warning C4101: status: неиспользованная локальная переменная
+  ConsoleApplication2.vcxproj -> C:\Users\dns\Desktop\Новая папка (2)\MPILab1\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\dns\Desktop\Новая папка (2)\MPILab1\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
